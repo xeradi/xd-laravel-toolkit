@@ -1,0 +1,17 @@
+{
+  "name": "xeradi",
+  "description": "Claude Code plugins by Xeradi for PHP and Laravel teams.",
+  "owner": {
+    "name": "Xeradi",
+    "url": "https://github.com/xeradi"
+  },
+  "plugins": [
+    {
+      "name": "xd",
+      "source": "./",
+      "description": "Senior-level PHP/Laravel code review, refactoring, planning, PR checks and TODO tracking.",
+      "category": "code-quality",
+      "tags": ["laravel", "php", "code-review", "refactoring"]
+    }
+  ]
+}

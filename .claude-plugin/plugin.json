@@ -1,0 +1,24 @@
+{
+  "name": "xd",
+  "displayName": "XD Laravel Toolkit",
+  "version": "1.1.0",
+  "description": "Senior-level PHP/Laravel code review, refactoring, planning, PR checks and TODO tracking — security and performance first, mentoring-style reports for junior developers.",
+  "author": {
+    "name": "Xeradi",
+    "url": "https://github.com/xeradi"
+  },
+  "homepage": "https://github.com/xeradi/xd-laravel-toolkit",
+  "repository": "https://github.com/xeradi/xd-laravel-toolkit",
+  "license": "MIT",
+  "keywords": [
+    "laravel",
+    "php",
+    "code-review",
+    "refactoring",
+    "pull-request",
+    "security",
+    "performance",
+    "mentoring",
+    "todo"
+  ]
+}
